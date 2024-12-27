@@ -1,0 +1,1 @@
+This repository contains a VHDL counter with a subtle bug related to its overflow handling.  The original code (`buggy_counter.vhdl`) demonstrates the issue where the counter doesn't reset correctly, leading to unexpected behavior. The solution (`fixed_counter.vhdl`) provides a corrected version with improved overflow management.
